@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+ollama
+python-dotenv
+asyncpg
+PyJWT
+pwdlib[argon2]
+python-multipart
+email-validator
